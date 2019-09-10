@@ -112,7 +112,7 @@ li {
 }
 
 .section-title {
-  font-family: 'Homemade Apple', cursive;
+  font-family: 'Alegreya Sans SC', sans-serif;
   font-size: 40px;
   font-weight: normal;
   line-height: 1;
@@ -151,7 +151,7 @@ h2 span {
 }
 
 #header .logo-title {
-  font-family: 'Homemade Apple', cursive;
+  font-family: 'Alegreya Sans SC', sans-serif;
   font-size: 85px;
   line-height: 1;
   letter-spacing: .2em;
@@ -174,7 +174,7 @@ h2 span {
   margin-top: 5px;
   text-align: center;
   letter-spacing: .2em;
-  font-family: 'Homemade Apple', cursive;
+  font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 /*--------------------------------
@@ -204,7 +204,7 @@ h2 span {
 }
 
 #gnav li {
-  font-family: 'Homemade Apple', cursive;
+  font-family: 'Alegreya Sans SC', sans-serif;
   font-size: 16px;
   padding: 0 24px;
   letter-spacing: .05em;
